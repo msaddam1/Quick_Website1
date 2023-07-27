@@ -1,0 +1,470 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles Galaxy Fold
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 279px) and (max-width: 319px) {
+  
+  /* CSS */
+  .container{
+	width: 95%;
+	
+	}
+	.row{
+	width: 100%;
+	float: left;
+	}
+	.col-12{
+	width: 100%;
+	float: left;
+	}
+	.col-6{
+	width: 100%;
+	float: left;
+	}
+	.col-4{
+	width: 100%;
+	float: left;
+	}
+	.header .logo{
+		width: 100%;
+		display: block;
+		text-align: center;
+	}
+	.header .navbar{
+		text-align: left;
+	}
+	.header .navbar li a{
+		font-size: 12px;
+		margin: 10px 0px 0px 1px;
+	}
+	.banner{
+		padding: 30px 0px;
+	}
+	.banner h1{
+		font-size: 21px;
+	}
+	.banner p {
+		font-size: 10px;
+	}
+	.success{
+		padding: 30px 0px;
+	}
+	.success .left-success {
+		text-align: center;
+	}
+	.success .left-success h1{
+		margin: 0px;
+		font-size: 21px;
+	}
+	.success .left-success p{
+		margin: 0px;
+		font-size: 10px;
+	}
+	.success .right-success {
+		text-align: center;
+	}
+	.success .right-success h1{
+		margin: 0px;
+		font-size: 21px;
+		
+	}
+	.feature{
+		padding: 30px 0px;
+	}
+	.inner-feature img{
+		width: 100%;
+		height: 120px;
+	}
+	.inner-feature{
+		margin: 0px 10px 20px ;
+		width: 66%;
+	}
+	.inner-feature h4{
+		font-size: 14px;
+	}
+	.inner-feature p{
+		font-size: 10px;
+	}
+	.landing-section h1{
+		font-size: 16px;
+	}
+	.landing-section p{
+		font-size: 10px;
+	}
+	.about-us h1{
+		font-size: 16px;
+	}
+	.about-us p{
+		font-size: 10px;
+	}
+	.contact .left-contact{
+		text-align: center;
+	}
+	.contact .left-contact h1{
+		margin: 0px;
+		font-size: 16px;
+	}
+	.contact .left-contact p{
+		margin: 0px 0px 10px;
+		font-size: 10px;
+	}
+	.contact .right-contact{
+		text-align: center;
+
+
+	}
+	.contact .right-contact h1{
+		margin: 10px 0px 0px;
+		font-size: 16px;
+	}
+	.contact .right-contact p{
+		margin: 0px;
+		font-size: 10px;
+	}
+	.contact-feature .login-box{
+		width: 190px;
+
+	}
+	.contact-feature h1{
+		font-size: 21px;
+	}
+	.footer {
+		width: 100%;
+		padding: 15px 0px;
+	}
+	.footer p{
+		font-size: 10px;
+	}
+}
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  .container{
+	width: 95%;
+	
+	}
+	.row{
+	width: 100%;
+	float: left;
+	}
+	.col-12{
+	width: 100%;
+	float: left;
+	}
+	.col-6{
+	width: 100%;
+	float: left;
+	}
+	.col-4{
+	width: 100%;
+	float: left;
+	}
+	.header .logo{
+		width: 100%;
+		display: block;
+		text-align: center;
+	}
+	.header .navbar{
+		text-align: center;
+	}
+	.header .navbar li a{
+		font-size: 12px;
+	}
+	.banner{
+		padding: 30px 0px;
+	}
+	.banner h1{
+		font-size: 26px;
+	}
+	.banner p {
+		font-size: 12px;
+	}
+	.success{
+		padding: 30px 0px;
+	}
+	.success .left-success {
+		text-align: center;
+	}
+	.success .left-success h1{
+		margin: 0px;
+		font-size: 26px;
+	}
+	.success .left-success p{
+		margin: 0px;
+		font-size: 12px;
+	}
+	.success .right-success {
+		text-align: center;
+	}
+	.success .right-success h1{
+		margin: 0px;
+		font-size: 26px;
+		
+	}
+	.feature{
+		padding: 30px 0px;
+	}
+	.inner-feature{
+		margin: 0px 10px 20px ;
+	}
+	.landing-section h1{
+		font-size: 26px;
+	}
+	.landing-section p{
+		font-size: 12px;
+	}
+	.about-us h1{
+		font-size: 26px;
+	}
+	.about-us p{
+		font-size: 12px;
+	}
+	.contact .left-contact{
+		text-align: center;
+	}
+	.contact .left-contact h1{
+		margin: 0px;
+		font-size: 23px;
+	}
+	.contact .left-contact p{
+		margin: 0px 0px 10px;
+		font-size: 12px;
+	}
+	.contact .right-contact{
+		text-align: center;
+
+
+	}
+	.contact .right-contact h1{
+		margin: 10px 0px 0px;
+		font-size: 23px;
+	}
+	.contact .right-contact p{
+		margin: 0px;
+		font-size: 12px;
+	}
+	.contact-feature .login-box{
+		width: 275px;
+	}
+	.contact-feature h1{
+		font-size: 26px;
+	}
+	.footer {
+		width: 100%;
+		padding: 15px 0px;
+	}
+	.footer p{
+		font-size: 12px;
+	}
+}
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  .container{
+	width: 95%;
+	
+	}
+	.row{
+	width: 100%;
+	float: left;
+	}
+	.col-12{
+	width: 100%;
+	float: left;
+	}
+	.col-6{
+	width: 100%;
+	float: left;
+	}
+	.col-4{
+	width: 100%;
+	float: left;
+	}
+	.header .logo{
+		width: 100%;
+		display: block;
+		text-align: center;
+	}
+	.header .navbar{
+		text-align: center;
+	}
+	.header .navbar li a{
+		font-size: 13px;
+	}
+	.banner{
+		padding: 40px 0px;
+	}
+	.banner h1{
+		font-size: 28px;
+	}
+	.banner p {
+		font-size: 13px;
+	}
+	.success{
+		padding: 40px 0px;
+	}
+	.success .left-success {
+		text-align: center;
+	}
+	.success .left-success h1{
+		margin: 0px;
+		font-size: 28px;
+	}
+	.success .left-success p{
+		margin: 0px;
+		font-size: 13px;
+	}
+	.success .right-success {
+		text-align: center;
+	}
+	.success .right-success h1{
+		margin: 0px;
+		font-size: 28px;
+		
+	}
+	.feature{
+		padding: 40px 0px;
+	}
+	.inner-feature{
+		margin: 0px 13px 30px ;
+		width: 85%;
+	}
+	.landing-section h1{
+		font-size: 28px;
+	}
+	.landing-section p{
+		font-size: 13px;
+	}
+	.about-us h1{
+		font-size: 28px;
+	}
+	.about-us p{
+		font-size: 14px;
+	}
+	.contact .left-contact{
+		text-align: center;
+	}
+	.contact .left-contact h1{
+		margin: 10px;
+		font-size: 25px;
+	}
+	.contact .left-contact p{
+		margin: 0px 0px 20px;
+		font-size: 13px;
+	}
+	.contact .right-contact{
+		text-align: center;
+
+
+	}
+	.contact .right-contact h1{
+		margin: 20px 0px 0px;
+		font-size: 25px;
+	}
+	.contact .right-contact p{
+		margin: 10px;
+		font-size: 13sspx;
+	}
+	.contact-feature .login-box{
+		width: 375px;
+	}
+	.contact-feature h1{
+		font-size: 28px;
+	}
+	.footer {
+		width: 100%;
+		padding: 25px 0px;
+	}
+	.footer p{
+		font-size: 13px;
+	}
+
+  
+}
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  .container{
+	width: 95%;
+	
+	}
+	.row{
+	width: 100%;
+	float: left;
+	}
+	.col-12{
+	width: 100%;
+	float: left;
+	}
+	.col-6{
+	width: 100%;
+	float: left;
+	}
+	.col-4{
+	width: 100%;
+	float: left;
+	}
+	.header .logo{
+		width: 100%;
+		display: block;
+		text-align: center;
+	}
+	.header .navbar{
+		text-align: center;
+	}
+	.success .left-success {
+		text-align: center;
+	}
+	.success .right-success {
+		text-align: center;
+	}
+	.feature{
+		padding: 40px 0px;
+	}
+	.inner-feature{
+		margin: 0px 5px 30px ;
+		width: 90%;
+	}
+	.contact .left-contact{
+		text-align: center;
+	}
+	.contact .left-contact h1{
+		margin: 0px;
+		font-size: 28px;
+	}
+	.contact .left-contact p{
+		margin: 0px 0px 10px;
+		font-size: 13px;
+	}
+	.contact .right-contact{
+		text-align: center;
+
+
+	}
+	.contact .right-contact h1{
+		margin: 10px 0px 0px;
+		font-size: 28px;
+	}
+	.contact .right-contact p{
+		margin: 0px;
+		font-size: 13px;
+	}
+
+
+}
